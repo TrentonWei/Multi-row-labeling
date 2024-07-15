@@ -4,7 +4,7 @@
 More details please refer to our upcoming paper.
 
 # The example from AMap and Meituan Map.
-![image](https://github.com/TrentonWei/DorlingMap/blob/master/Interface-1.png)
+![image](https://github.com/TrentonWei/Multi-row-labeling/blob/master/Figure%2010.png)
 
 
 ## Project setup
